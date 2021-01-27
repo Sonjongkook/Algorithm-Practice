@@ -1,3 +1,4 @@
+// O(N*d)| O(N)
 import java.util.*;
 
 class Program {
